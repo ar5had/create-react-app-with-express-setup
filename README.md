@@ -9,7 +9,7 @@ Here is a [detailed blog post](https://www.fullstackreact.com/articles/using-cre
 ## Running locally
 
 ```
-git clone git@github.com:arshdkhn1/create-react-app-with-node-setup.git
+git clone git@github.com:arshdkhn1/create-react-app-with-express-setup.git
 cd create-react-app-with-node-setup
 npm i
 
